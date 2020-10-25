@@ -2,7 +2,7 @@
   
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidpotolskilafeta/) [![YouTube](https://img.shields.io/badge/youtube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC3Bd5KettfGCfpCbIfzMMwg?view_as=subscriber) [![DEV](https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white)](https://potolski.itch.io/) [![Android apps](https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white)](https://play.google.com/store/apps/dev?id=5523534975854645494)
 
-I am a guy that became a Software development project manager and liked the job. Musical producer, Flutter, and Game developer(Unity) in the off-hours.
+I'm a software developer currently working with C# both professionally and as a hobby (Unity). I have project management experience and also am a musical producer, Flutter, and Game developer(Unity) in the off-hours.
 
 As a project manager, I focus on delivering results while retaining people in the team. My references for being a manager are 
 - The Effective Manager, 
