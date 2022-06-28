@@ -1,6 +1,10 @@
 ## Sup, My name is David and I'm a rapper :sound: :laughing:
   
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidpotolskilafeta/) [![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)]() [![DEV](https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white)](https://potolski.itch.io/) [![Android apps](https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white)](https://play.google.com/store/apps/dev?id=5523534975854645494)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidpotolskilafeta/) [![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)]() 
+[![Unity](https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white)](https://potolski.itch.io/) 
+[![Dart](https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white)](https://play.google.com/store/apps/dev?id=5523534975854645494)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://davidpotolskilafeta.medium.com/)
+
 
 I'm a software developer currently working with smart contracts. I have project management experience and also am a musical producer, and gamer in the off-hours.
 
