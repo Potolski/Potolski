@@ -1,4 +1,4 @@
-## Sup, My name is David and I'm a rapper :sound: :laughing:
+## Sup, My name is David and I'm a smart contract engineer
   
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidpotolskilafeta/) [![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black)]() 
 [![Unity](https://img.shields.io/badge/unity%20-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white)](https://potolski.itch.io/) 
